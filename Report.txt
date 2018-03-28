@@ -1,0 +1,4 @@
+Name: Jonah Bond
+CS 485
+Midterm Project
+Project Name: Space Defender
